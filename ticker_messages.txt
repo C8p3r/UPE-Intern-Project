@@ -1,0 +1,16 @@
+# One ticker message per line. Blank lines and lines beginning with # are ignored.
+                          
+Fork found in kitchen
+...
+Spoon found in kitchen also
+:p
+Ctrl+Arrows moves 3 tiles
+o7
+Like Sodok-Osu? No?
+O.o
+vibe-Coded UI, bad-Coded soduku generation
+o.o
+prompt maxxing <3
+>.<
+I drew a thing!!!
+;u;
