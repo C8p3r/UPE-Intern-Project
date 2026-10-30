@@ -2,6 +2,10 @@
 
 ## Sudoku, for ZOOMERS!
 
+### How to use
+
+Just run the Sudoku.exe from in the folder it comes in, or unzip the windows folder inside it if it dosen't work. tbh just asked claude and it worked for me so if its broken like dm me or smth
+
 ### How was it put together?
 
 The actual 'soduku' part of it was coded w/o AI and used traditional googling
